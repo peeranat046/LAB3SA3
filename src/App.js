@@ -2,7 +2,7 @@ import React from 'react';
 import CharacterCard from './CharacterCard';
 import './App.css';
 import _ from 'lodash';
-import pic from './999.jpg'
+
 
 let message = 'Firmino'
 const prepareStateFromWord = (given_word) => {

@@ -20,6 +20,6 @@
   flex-direction: column;
 }
 body {
-  background: url(./live.jpg) no-repeat center center;
-  background-color: thistle;
+  background: url(./live.jpg) repeat-x;
+  
 }
