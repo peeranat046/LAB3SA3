@@ -20,6 +20,6 @@
   flex-direction: column;
 }
 body {
-  background: url(./live.jpg) repeat-y;
+  background: url(./live.jpg) no-repeat ;
   
 }
