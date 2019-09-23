@@ -11,7 +11,7 @@
  
  .activeCard {
   color: green;
-  background:black;
+  background:grey;
  }
 .cen{
   display: flex;
